@@ -1,0 +1,15 @@
+{
+    "_id" : ObjectId("6349e4b4163c6320bf5c48bf"),
+    "indexes" : [
+        {
+            "v" : NumberInt(2),
+            "key" : {
+                "_id" : NumberInt(1)
+            },
+            "name" : "_id_"
+        }
+    ],
+    "uuid" : "99529048095140a88baafc51eae74a0b",
+    "collectionName" : "usuario",
+    "type" : "collection"
+}
